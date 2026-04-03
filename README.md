@@ -4,6 +4,11 @@
 This dashboard project provides a comprehensive analysis of weekly sales data across 45 Walmart stores. The goal is to identify the key drivers of revenue, including seasonality, fuel prices, and the impact of holiday promotions.
 **Dashboard Screenshot:** 'Walmart_Sales_Dashboard.png'
 
+## 🗃️ Dataset
+## Dataset
+The data used in this analysis is sourced from the **Walmart Sales** dataset on Kaggle.
+"https://www.kaggle.com/datasets/mikhail1681/walmart-sales"
+
 ## 🛠️ Tools Used
 **Excel:** Pivot Tables, Power Query, Slicers, and Advanced Charting.
 **Conditional Formatting:** To highlight high performance stores.
